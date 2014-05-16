@@ -11,6 +11,7 @@ tagline:          'A Jekyll theme'
 description:      '@hilapeleg'
 url:              http://lanyon.getpoole.com
 paginate:         5
+baseurl: /www
 
 author:
   name:           'Mark Otto'
