@@ -6,19 +6,19 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Lanyon
+title:            Hila Peleg
 tagline:          'A Jekyll theme'
 description:      '@hilapeleg'
-url:              http://lanyon.getpoole.com
+url:              http://hilapeleg.io
 paginate:         5
 baseurl: /www
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Hila Peleg'
+  url:            http://hilapeleg.io
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/hilapeleg/www
