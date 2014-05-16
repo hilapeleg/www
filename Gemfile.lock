@@ -90,4 +90,3 @@ PLATFORMS
 DEPENDENCIES
   guard-jekyll-plus
   guard-livereload
-  jekyll
