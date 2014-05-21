@@ -11,7 +11,7 @@ tagline:          'A Jekyll theme'
 description:      '@hilapeleg'
 url:              http://hilapeleg.io
 paginate:         5
-baseurl: /
+#baseurl: /www
 
 author:
   name:           'Hila Peleg'
