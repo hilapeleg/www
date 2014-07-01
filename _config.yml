@@ -5,6 +5,9 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+prose:
+  media: 'media'
+  
 # Setup
 title:            Hila Peleg
 tagline:          'A Jekyll theme'
