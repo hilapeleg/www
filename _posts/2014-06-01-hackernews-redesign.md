@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## HackerNews Redesign
