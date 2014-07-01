@@ -3,5 +3,5 @@ published: false
 ---
 
 ## HackerNews Redesign
+![mockup_720x867.png](/media/mockup_720x867.png)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
