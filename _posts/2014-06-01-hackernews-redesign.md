@@ -21,3 +21,26 @@ Numrtic System. Human beings have limits on the capacity for processing informat
 Insignia. The colors I used are origin from the "Y-Combinator" logo. I used the scale from #FFFDFC to #FF6602.
 
 ![color-scale_03.png](/media/color-scale_03.png)
+
+## Original vs My Design
+information hierarchy
+
+![before_after.png](/media/before_after.png)
+
+Original
+* Position in list (numerical) - 
+* Title.
+* Domain.
+* Points.
+* Author.
+* Published date.
+* Comments (engagement).
+New Design
+* Points (the Y-Meter)
+* Title.
+* Comments (engagement).
+* Author.
+* Domain.
+* Publish date.
+
+
