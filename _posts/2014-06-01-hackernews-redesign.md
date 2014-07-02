@@ -20,4 +20,4 @@ Visually. People are bussy. During the day we work and dont have alot of time to
 Numrtic System. Human beings have limits on the capacity for processing information, as George A. Miller wrote In an article that was published in 1956 by the cognitive psychologist. My Y-Meter system presents 6 extents for ranking (0-20, 21-50, 51-100, 101-200, 201-400, 400+) so the reader will find fast what he's looking for.
 Insignia. The colors I used are origin from the "Y-Combinator" logo. I used the scale from #FFFDFC to #FF6602.
 
-![y_meter_03.png](/media/y_meter_03.png)
+![color-scale_03.png](/media/color-scale_03.png)
