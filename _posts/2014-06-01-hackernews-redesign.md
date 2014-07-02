@@ -10,6 +10,7 @@ When I first saw Hacker News site I was told that the design stayed the same for
 
 ## Introducing the Y-Meter
 
+<br/>
 ![y_meter_03.png](/media/y_meter_03.png)
 
 * Using visual insted of textual for ranking.
