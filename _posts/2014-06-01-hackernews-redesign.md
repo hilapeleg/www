@@ -8,7 +8,7 @@ layout: post
 I love challenges, specially in design. When i think the answer is right there and its only a matter of color / font / pattern and that's it! But then I find myself staring at the canvas and nothing. When it comes to flat design the rules are quite clear and even universal. So why is it so hard to keep it simple? 
 When I first saw Hacker News site I was told that the design stayed the same for years and it have no intension to change in the future. So do why I (as many other great designers) want to make a "Re Design" to a platform that obviously working? Becouse of the challenge that can be found in dealing with few colors, and clear guide lines writing by the Y Combinator. The challnge is in with what i can innovate from minimum ingredients.
 
-Introducing the Y-Meter
+## Introducing the Y-Meter
 
 ![y_meter_03.png](/media/y_meter_03.png)
 
@@ -21,4 +21,3 @@ Numrtic System. Human beings have limits on the capacity for processing informat
 Insignia. The colors I used are origin from the "Y-Combinator" logo. I used the scale from #FFFDFC to #FF6602.
 
 ![y_meter_03.png](/media/y_meter_03.png)
-
