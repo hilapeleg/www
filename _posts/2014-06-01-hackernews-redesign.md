@@ -29,7 +29,9 @@ information hierarchy
 
 ![before_after.png](/media/before_after.png)
 
+
 Original
+
 * Position in list (numerical)
 * Title
 * Domain
@@ -37,7 +39,9 @@ Original
 * Author
 * Published date
 * Comments (engagement)
+
 New Design
+
 * Points (the Y-Meter)
 * Title.
 * Comments (engagement)
