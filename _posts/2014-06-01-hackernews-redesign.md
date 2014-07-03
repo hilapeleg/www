@@ -5,11 +5,8 @@ layout: post
 
 ![mockup_720x867.png](/media/mockup_720x867.png)
 
-I love challenges, aspecially in design. When i think its obvious and it is only a matter of color / font / pattern and my project is done, I come to realize that my canvas is blank and nothing is working. 
 
-I'm not a developer, so I got familiar with Hacker News only recently. I got the impression it is very simplistic in design - and that someone intended for it to stay that way; however I couldn't resist to attempt a redesign.
-
-The challenge is adding to a simple thing - but after the additions, make sure it remains simple or event simpler.
+The challenge: adding to a simple thing - but after the additions, make sure it remains simple or even simpler.
 
 To get such a task, it felt like diffusing a bomb - slowly but surely, I made myself familiar with Y Combinator, Hacker News and its community at large. 
 
@@ -74,16 +71,16 @@ A tweak was also made to the information hierarchy, and ordered by what I though
 
 ### Breaking it down
 
-The information hierarchy in the new design is different. The new ordering allows the reader to find her way around more quickly by a simple horizontal scan of the item, from what I belive is more important. 
+The **information hierarchy** in the new design is different. The new ordering allows the reader to find her way around more quickly by a simple horizontal scan of the item, from what I belive is more important. 
 
 
-The Y-Meter which represents the points, is at the begining of the line, follow by the title itself. The title in the new design is bigger and more readable. The font (Helvetica Nueue) is up for a more modern, cleaner look.
+**The Y-Meter** which represents the points, is at the begining of the line, follow by the title itself. The title in the new design is bigger and more readable. The font (Helvetica Nueue) is up for a more modern, cleaner look.
 
 
-Comments - unlike the original version, I belive that the comments should come right after the title becouse they indicate how intersting the article is and how much buzz it has. Follows is the Author, less relevant for majority of readers (although avid HN readers really see it as important) and the same goes for domain. 
+**Comments** - unlike the original version, I belive that the comments should come right after the title becouse they indicate how intersting the article is and how much buzz it has. Follows is the Author, less relevant for majority of readers (although avid HN readers really see it as important) and the same goes for domain. 
 
 
-Finally, the publication date -  it's less relevant due to the fact that the articles stacking upward are ordered by a secret HN sauce and not chronologically :). 
+Finally, the **publication date** -  it's less relevant due to the fact that the articles stacking upward are ordered by a secret HN sauce and not chronologically :). 
 
 ### Readability
 
