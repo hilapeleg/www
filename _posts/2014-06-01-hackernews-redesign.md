@@ -6,7 +6,7 @@ layout: post
 ![mockup_720x867.png](/media/mockup_720x867.png)
 
 
-The challenge: adding to a simple thing - but after the additions, make sure it remains simple or even simpler.
+**The challenge:** adding to a simple thing - but after the additions, make sure it remains simple or even simpler.
 
 To get such a task, it felt like diffusing a bomb - slowly but surely, I made myself familiar with Y Combinator, Hacker News and its community at large. 
 
