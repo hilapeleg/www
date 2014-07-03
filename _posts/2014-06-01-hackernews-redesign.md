@@ -17,7 +17,8 @@ my need (as many other designers) for re designing the platform (that obviously 
 ## Introducing the Y-Meter
 
 <br/>
-![y_meter_03.png](/media/y_meter_03.png)
+![](/media/y_meter_03.png)
+<br/>
 
 * Using visual insted of textual for ranking.
 * Defining a numrtic system for ranking points - composed of 6 levels.
