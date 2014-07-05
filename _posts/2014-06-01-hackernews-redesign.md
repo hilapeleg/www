@@ -12,7 +12,7 @@ To get such a task, it felt like diffusing a bomb - slowly but surely, I made my
 
 All in all, I hope I made Y Combinator justice with my new redesign attempt.
 
-
+</br>
 ## Introducing the Y-Meter
 
 ![](/media/y_meter_03.png)
@@ -102,5 +102,3 @@ A few of my focus points:
 Thanks for spending time seeing how I evolved the Hacker News design - it was an awesome drill, and I recommend taking a shot at it yourself.
 
 If you'd like to shoot a line, I'd love to see what you think, at [hilapeleg@gmail.com](mailto:hilapeleg@gmail.com)
-
-
