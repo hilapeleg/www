@@ -49,7 +49,7 @@ A tweak was also made to the information hierarchy, and ordered by what I though
 
 </br>
 ![before_after.png](/media/before_after.png)
-
+</br>
 
 ### Original
 
