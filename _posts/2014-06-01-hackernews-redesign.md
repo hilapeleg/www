@@ -15,7 +15,7 @@ All in all, I hope I made Y Combinator justice with my new redesign attempt.
 </br>
 ## Introducing the Y-Meter
 
-![](/media/y_meter_03.png)![y_meter_03.png](/media/y_meter_03.png)
+![y_meter_03.png](/media/y_meter_03.png)
 
 
 
