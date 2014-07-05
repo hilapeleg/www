@@ -41,7 +41,8 @@ The colors I used are originating from the "Y-Combinator" logo. I simply used th
 
 </br>
 ![color-scale_03.png](/media/color-scale_03.png)
-
+</br>
+</br>
 ## Original vs New Design
 
 A tweak was also made to the information hierarchy, and ordered by what I thought is important for a Hacker News reader (I came at that by asking a few people and experiencing HN for the last months).
