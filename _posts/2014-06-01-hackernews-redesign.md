@@ -74,7 +74,7 @@ A tweak was also made to the information hierarchy, and ordered by what I though
 
 ### Breaking it down
 
-The **information hierarchy** in the new design is different. The new ordering allows the reader to find her way around more quickly by a simple horizontal scan of the item, from what I belive is more important. 
+The **information hierarchy** in the new design is different. The new ordering allows the reader to find his way around more quickly by a simple horizontal scan of the item, from what I belive is more important. 
 
 
 **The Y-Meter** which represents the points, is at the begining of the line, follow by the title itself. The title in the new design is bigger and more readable. The font (Helvetica Nueue) is up for a more modern, cleaner look.
