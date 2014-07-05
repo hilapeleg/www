@@ -89,7 +89,7 @@ Finally, the **publication date** -  it's less relevant due to the fact that the
 One line for all important information and a better separation of information. The background color is 3% of the base color `#FF6602`  - it's lighter then the original one and provides higher contrast. 
 
 Using the horizontal packing of information, in my opinion, eases on the eye that moves in a single motion per item when scanning the line. 
-
+![](/media/web_MockUp_2.png)
 ## Summary
 
 A few of my focus points:
