@@ -39,7 +39,7 @@ My Y-Meter system presents _6 extents_ for ranking (0-20, 21-50, 51-100, 101-200
 
 The colors I used are originating from the "Y-Combinator" logo. I simply used the scale from #FFFDFC to #FF6602 and derivatives are rooted at that scale.
 
-
+</br>
 ![color-scale_03.png](/media/color-scale_03.png)
 
 ## Original vs New Design
