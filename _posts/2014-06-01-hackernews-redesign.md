@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-![](/media/mockup_720x1981.png)
+![](/media/mockup_720x1981.png)![](/media/mockup_720x1981.png)
 
 **The challenge:** adding to a simple thing - but after the additions, make sure it remains simple or even simpler.
 
