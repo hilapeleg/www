@@ -48,9 +48,9 @@ The colors I used are originating from the "Y-Combinator" logo. I simply used th
 
 A tweak was also made to the information hierarchy, and ordered by what I thought is important for a Hacker News reader (I came at that by asking a few people and experiencing HN for the last months).
 
-
+</br>
 ![before_after.png](/media/before_after.png)
-
+</br>
 
 ### Original
 
