@@ -58,3 +58,5 @@ Here is my follow up design:
 The whole experience i had with posting my last article was a real eye opener. I learned that design can effect and touch people, starting from the emotional place to the practical.
 
 As I learned that users can connect to a design, like the experienced HN readers who got upset nor excited about the new concept design and preferred the old and trusted design, up to designers who were inspired of doing their own design for HN site after seeing mine.
+
+So, thanks HN!
