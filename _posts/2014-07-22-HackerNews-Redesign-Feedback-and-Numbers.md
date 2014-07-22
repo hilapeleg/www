@@ -12,12 +12,11 @@ Within 20 minutes, the post got on the front page and started getting some inter
 
 ![HN-top-4.png](/media/HN-top-4.png)
 
-(screenshot of front page HN here)
 
 Followed were emails, tweets and traffic from all around the web – it was a nice surprise!
 The various emails and comments I've got came from professional designers and newbies alike – all looking to support and for advise – I was humbled.
 
-(screenshot of analytics here)
+![hn-goog-anl.png](/media/hn-goog-anl.png)
 
 
 ## Feedback
