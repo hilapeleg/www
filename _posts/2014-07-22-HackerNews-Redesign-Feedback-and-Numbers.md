@@ -5,6 +5,8 @@ layout: post
 
 I'm writing this post as a thanks to HN readers and readers who contacted me via email and Twitter.
 
+<br/>
+
 ## The Community
 
 After posting the original [Hackernews Redesign](http://hilapeleg.io/2014/06/01/hackernews-redesign/) on Hacker News, as a newcomer to the HN community - I was overwhelmed with excellent feedback and exciting opinions.
@@ -18,7 +20,7 @@ Followed were emails, tweets and traffic from all around the web – it was a ni
 The various emails and comments I've got came from professional designers and newbies alike – all looking to support and for advise – I was humbled.
 
 ![hn-goog-anl.png](/media/hn-goog-anl.png)
-
+<br/>
 
 ## Feedback
 
@@ -30,11 +32,12 @@ When I worked on the design, I didn't anticipate how vibrant is the Hacker News 
 -" I don't like: the Y meter...Most HN readers are nerds, and nerds like exact values"
 
 
-
+<br/>
 ## Feedback Applied
 
 Since people invested their time to give me feedback, I thought it is only fair that I take all of this great feedback and try to apply it to a new design. So here goes.
 
+<br/>
 ### Main Changes
 
 - Visual: The Y-Meter so it seems, didn't served the purpose completely (to some, it did).
@@ -54,7 +57,7 @@ Here is my follow up design:
 
 
 
-
+<br/>
 ## Summing up
 
 The whole experience i had with posting my last article was a real eye opener. I learned that design can effect and touch people, starting from the emotional place to the practical.
