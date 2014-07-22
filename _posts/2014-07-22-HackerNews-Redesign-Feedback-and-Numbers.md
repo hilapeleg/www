@@ -40,7 +40,9 @@ Since people invested their time to give me feedback, I thought it is only fair 
 - Visual: The Y-Meter so it seems, didn't served the purpose completely (to some, it did).
 Now the rating system is based on 4 level of scaling: 0-100, 101-200, 201-400, 401+. The distribution is now at the size and color of the object that now define the points:
 
-![](/media/ranking.png)
+
+![ranking-w.png](/media/ranking-w.png)
+
 
 - Up voting button: I gave it more space after i read that theres no space to point at it withe the mouse, and scale it up to 30% more. Also the color is less dominant now unlike the last version. 
 - The comments: I brought the comments closer to the title.
