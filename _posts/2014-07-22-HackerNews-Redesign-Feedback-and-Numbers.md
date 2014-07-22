@@ -9,6 +9,7 @@ I'm writing this post as a thanks to HN readers and readers who contacted me via
 After posting the original [Hackernews Redesign](http://hilapeleg.io/2014/06/01/hackernews-redesign/) on Hacker News, as a newcomer to the HN community - I was overwhelmed with excellent feedback and exciting opinions.
 
 Within 20 minutes, the post got on the front page and started getting some interesting comments.
+![HN-top-4.png](/media/HN-top-4.png)
 
 (screenshot of front page HN here)
 
