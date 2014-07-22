@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I'm writing this post as a thanks to HN readers and readers who contacted me via email and Twitter.
