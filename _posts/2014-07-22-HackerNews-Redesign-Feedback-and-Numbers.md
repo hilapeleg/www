@@ -47,7 +47,8 @@ Now the rating system is based on 4 level of scaling: 0-100, 101-200, 201-400, 4
 
 Here is my follow up design:
 
-(screenshot of the mockup 720)
+(scr![web_mockup.png](/media/web_mockup.png)
+eenshot of the mockup 720)
 
 
 
